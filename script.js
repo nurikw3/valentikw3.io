@@ -1,7 +1,7 @@
 let leftPos = 0
 let bottomPos = 0
 document.getElementById('yessir').addEventListener('click', () => {
-    alert('hi hitler!    ')
+    alert('i love u my soul <3\nmy gorgeous\nmy aphrodite\nand main botam menim)')
 })
 document.getElementById('nooo').addEventListener('mouseover', () => {
     leftPos = Math.floor(Math.random() * (50 - (-50) + 1)) + (-50);
